@@ -10,7 +10,7 @@ const Footer = () => {
             <h1 className='mb-0'>Pizza Hunt</h1>
             <small className='text-uppercase'>since 2010</small>
             <p className='mt-4'>
-              This template created with 💗 by{' '}
+              This template created with 💗 by
               <a className='text-danger' href='http://monirhossain.com'>
                 Monir Hossain
               </a>
